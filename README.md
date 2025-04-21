@@ -25,3 +25,32 @@ This analysis provides valuable insights that can help **educators** and **polic
 ## **Project Files on GitHub**:
 For those interested in the full project, including the code and analysis, you can check it out on my GitHub:  
 [GitHub Project Link](https://github.com/TAWFIG610/Data_Mining_Project)
+
+
+
+# Machine Learning Model Training and Evaluation
+
+This project demonstrates a complete machine learning pipeline, including data preprocessing, exploratory data analysis (EDA), model training, and hyperparameter tuning.
+
+## Project Structure
+- `main.py`: Entry point to run the full pipeline.
+- `data_preprocessing.py`: Contains data loading and preprocessing functions.
+- `exploratory_data_analysis.py`: Contains functions to perform EDA and generate visualizations.
+- `model_training.py`: Trains and evaluates machine learning models.
+- `model_tuning.py`: Tunes hyperparameters of models using GridSearchCV.
+- `utils.py`: Utility functions for saving models and plots.
+
+## Requirements
+
+Make sure you have the following Python packages installed:
+
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- xgboost
+- catboost
+- imblearn
+- joblib
+
